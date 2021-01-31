@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-09_1854",
-    "currentPage": "inde.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -60,7 +60,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "inde.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
