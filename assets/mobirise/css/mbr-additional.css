@@ -2202,19 +2202,66 @@ a {
 .cid-snHCqwiasZ .icon-text {
   color: #ffffff;
 }
-.cid-so9BFvXfbQ {
-  padding-top: 5rem;
+.cid-soeZS4Spap {
+  padding-top: 4rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
-.cid-so9BFvXfbQ .mbr-section-title {
+.cid-soeZS4Spap img,
+.cid-soeZS4Spap .item-img {
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-soeZS4Spap .item:focus,
+.cid-soeZS4Spap span:focus {
+  outline: none;
+}
+.cid-soeZS4Spap .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-soeZS4Spap .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-soeZS4Spap .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-soeZS4Spap .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-soeZS4Spap .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-soeZS4Spap .mbr-section-title {
+  color: #232323;
   text-align: left;
 }
-.cid-so9BFvXfbQ .mbr-section-subtitle {
+.cid-soeZS4Spap .mbr-text,
+.cid-soeZS4Spap .mbr-section-btn {
+  text-align: left;
+}
+.cid-soeZS4Spap .item-title {
+  text-align: center;
+}
+.cid-soeZS4Spap .item-subtitle {
+  text-align: left;
+  color: #232323;
+}
+.cid-soeZS4Spap .mbr-section-subtitle {
   text-align: left;
 }
 .cid-so9Bf5P1WO {
-  padding-top: 0rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: #ffffff;
 }
@@ -2226,44 +2273,13 @@ a {
 .cid-so9Bf5P1WO .mbr-text {
   text-align: center;
 }
-.cid-so9E3su1WF {
-  padding-top: 4rem;
-  padding-bottom: 1rem;
-  background-color: #ececec;
-}
-.cid-so9E3su1WF .mbr-section-title {
+.cid-so9Bf5P1WO .mbr-section-title {
   text-align: left;
 }
-.cid-so9EkfMxcO {
-  padding-top: 0rem;
+.cid-sofayYd1xU {
+  padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ececec;
-}
-.cid-so9EkfMxcO .counter-container ul {
-  margin: 0;
-  list-style: none;
-  padding-left: 2.5rem;
-}
-.cid-so9EkfMxcO .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-  position: relative;
-  padding-left: 1rem;
-}
-.cid-so9EkfMxcO .counter-container ul li:before {
-  position: absolute;
-  left: -40px;
-  content: "";
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #ffffff;
   background-color: #31446d;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  margin-top: 5px;
-  content: "✓";
 }
 .cid-snHzEFNgAg {
   padding-top: 4rem;
